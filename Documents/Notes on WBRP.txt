@@ -1,0 +1,30 @@
+For A1: 
+
+Write as much as necessary. 3000 would be overkill. 
+
+Highlight the question within the assignment duh. And ensure it's a QUESTION.
+
+Introduction should be similar to methodology intro, but cut short. Say what you're going to do, what data is being gathered and how it's gathered. 
+
+The PRoject Title and overview can be amalgamated into the introduction. Just make sure these are mentioned. Very important. 
+
+Objectives are outcomes. What are we getting out of this? Objectives can be "To build a survey", "To test a working solution", "To write a piece of software", "To run and complete tests", "To gather appropriate data", "To analytse the data appropriately", "To present the results", "To determine conclusions based on the results"
+
+Deliverables - Software built is a deliverable, hardware can be a deliverable, results are a deliverable,  results of the analysis (i.e what you determine and how you're going to process it to make it mean something. Also consider looking at how the levels compare in between questions to determine correlation or a causal relationship),
+
+Objective is what you were achieving, the deliverable is the object itself
+
+The statement of the research question should be brief. Are we proving something, justifying something, comparing something found in the literature review? 
+
+Constraints, hardware, operating system, these come often from the sponsor
+
+Legal, ethical or professional issues, consider confidentiality, data protection etc
+
+REsources required should state programs required to qrite the software, include the participants you need to gather the data from
+
+Risk assessment - mention sticking to the project plan, identify things that could delay you or halt you. Include what the risk is, its effect, likelihood of occuring, how the risk can be avoided, and if not, how to reapproach the issue
+
+Sponsor letter - have them agreeing to taking part in this project and confirm the time/resources being provided
+
+Project Plan - the most detailed tasks will be added as you go, include Gantt Chart and schedule ofc
+
